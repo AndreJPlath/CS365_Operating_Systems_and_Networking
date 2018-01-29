@@ -1,3 +1,5 @@
+CS365: Operating System and Networking
+
 Course Objectives:
 This course provides an introduction to Operating Systems as managers of sys- tems resources and networking fundamentals. Management of tasks, memory, and peripheral devices is explored. Topics include task synchronization, mes- sage handling, scheduling, dispatching, network communications and protocols. Students gain hands-on experiences via labs and projects.
 Prerequisite: CS 260 and CS271.
