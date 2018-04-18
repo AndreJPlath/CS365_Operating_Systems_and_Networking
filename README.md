@@ -45,11 +45,6 @@ for some small changes of grading. Any
 
 Plagiarism:
 In this course you are encouraged to discuss the problems with your classmates. However, you are not allowed to work together on the final solution of the problems except in a group project. If we find similar solutions, it will be treated as cheating! You get zero on the cheated assignment if you are caught once in any form of the cheating. In addition, the violation will also be reported to the division and the university.
-Disability:
-Please contact the Office of Disability Service if you need further help. The information of ODS is following:
-http://www.wou.edu/student/disability/
-Phone: 503-838-8250
-Email: ods@wou.edu
 
 NOTES:
 1. The instructor reserves the right to adjust the class schedule and grading policy according to the class progress.
